@@ -1,7 +1,8 @@
 # App-Projeto-Litoral
 
 <h1>Nome: CLSP</h1>
-<h1>Integrantes: Alexandre Teixeira e Isaque Sérgio</h1>
+<h1> Turma:  2DS </h1>
+<h1>Integrantes: Alexandre Teixeira e Isaque </h1>
 <br>
 <h2>Descrição do projeto:</h2></h2>
 <p>O CLSP é um aplicativo informativo sobre regiões do litoral e seus riscos de erosão costeira. Ele fornece uma lista das cidades do litoral de São Paulo que mais tem risco de erosão costeira, sinais que devem ser percebidos e o que fazer caso ocorra. </p>
