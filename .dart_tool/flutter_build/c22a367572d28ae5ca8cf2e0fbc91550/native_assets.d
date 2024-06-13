@@ -1,0 +1,1 @@
+ C:\\Users\\mikaz\\OneDrive\\Documentos\\CLSP\\.dart_tool\\flutter_build\\c22a367572d28ae5ca8cf2e0fbc91550\\native_assets.yaml: 
