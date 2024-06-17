@@ -13,6 +13,10 @@
 
 <a href="https://github.com/alexandreteixeira13/App-Projeto-Litoral/wiki/Justificativa-e-Proposta-do-aplicativo">Justificativa e proposta</a>
 
-<a href="https://github.com/alexandreteixeira13/App-Projeto-Litoral/wiki/Telas-do-aplicativo">Telas do APP</a>
+<a href="https://github.com/alexandreteixeira13/App-Projeto-Litoral/wiki/Telas-do-aplicativo-‐-protótipo">Telas do aplicativo - prototipo</a>
 
 <a href="https://github.com/alexandreteixeira13/App-Projeto-Litoral/wiki/Widgets-utilizados">Widgets utilizados</a>
+
+<a href="https://github.com/alexandreteixeira13/App-Projeto-Litoral/wiki/Desenvolvimento-do-Aplicativo">Desenvolvimento do aplicativo</a>
+
+<a href="https://github.com/alexandreteixeira13/App-Projeto-Litoral/wiki/Telas-do-aplicativo-e-caminho-de-navegação-‐-produto-minimo">Telas do aplicativo - produto minimo</a>
